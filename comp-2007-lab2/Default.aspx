@@ -2,10 +2,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
-   <div class="container">
-       <div>
-           
-       <h1>Welcome</h1>
-          
-   </div>  
+   <bs29:Jumbotron ID="Jumbotron" runat="server" />
+    
+        
 </asp:Content>
