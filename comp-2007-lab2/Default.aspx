@@ -3,6 +3,9 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
    <div class="container">
-       <h1>Welcom</h1>
+       <div>
+           
+       <h1>Welcome</h1>
+          
    </div>  
 </asp:Content>
